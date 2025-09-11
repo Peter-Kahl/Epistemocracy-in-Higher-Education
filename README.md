@@ -4,6 +4,8 @@
 
 #### _A new governance model for higher education grounded in fiduciary ethics and epistemic plurality, challenging managerialism and advancing democratic knowledge institutions._
 
+DOI: 10.13140/RG.2.2.34597.36324
+
 by Peter Kahl, 19 June 2025
 
 ![alt text](https://github.com/Peter-Kahl/Epistemocracy-in-Higher-Education/blob/main/abstract_illustration.jpg?raw=true)
@@ -29,7 +31,7 @@ cognitive dissonance, epistemic dissonance, foreign language effect, bilingualis
 ### Cite this work
 
 ```
-Kahl, P. (2025). Epistemocracy in higher education: A proposal for fiduciary and epistemic accountability in the university. Lex et Ratio Ltd. https://github.com/Peter-Kahl/Epistemocracy-in-Higher-Education
+Kahl, P. (2025). Epistemocracy in higher education: A proposal for fiduciary and epistemic accountability in the university. Lex et Ratio Ltd. https://doi.org/rg.2.2.34597.36324
 ```
 
 ### Publisher & Licence
