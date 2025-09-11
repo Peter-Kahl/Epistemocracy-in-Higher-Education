@@ -2,6 +2,8 @@
 
 ### A Proposal for Fiduciary and Epistemic Accountability in the University
 
+#### _A new governance model for higher education grounded in fiduciary ethics and epistemic plurality, challenging managerialism and advancing democratic knowledge institutions._
+
 by Peter Kahl, 19 June 2025
 
 ![alt text](https://github.com/Peter-Kahl/Epistemocracy-in-Higher-Education/blob/main/abstract_illustration.jpg?raw=true)
