@@ -34,7 +34,7 @@ Kahl, P. (2025). Epistemocracy in higher education: A proposal for fiduciary and
 
 ### Publisher & Licence
 
-First published in Great Britain by Lex et Ratio Ltd on 10 September 2025.
+First published in Great Britain by Lex et Ratio Ltd 19 June 2025.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
 
