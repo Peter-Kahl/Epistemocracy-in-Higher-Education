@@ -41,5 +41,3 @@ Second edition published in London by Lex et Ratio Ltd, 15 September 2025.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.
 You may share this work for non-commercial purposes with attribution and without modification. Licence: https://creativecommons.org/licenses/by-nc-nd/4.0/
-
-You are free to share — copy and redistribute the material in any medium or format — under the following terms: attribution required; non-commercial use only; no modifications permitted. Full licence text at <https://creativecommons.org/licenses/by-nc-nd/4.0/>.
