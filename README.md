@@ -16,7 +16,7 @@ This paper advances the concept of epistemocracy as a normative model of higher 
 
 ### Keywords
 
-higher education governance; fiduciary ethics; epistemic justice; epistemic democracy; institutional accountability; distributed credibility; transparency; critical pedagogy; agonistic pluralism; public trust; optocratic drift; fiducial hollowing; epistemic inversion
+epistemocracy, fiduciary duties, epistemic justice, epistemic plurality, higher education governance, optocratic drift, fiducial hollowing, epistemic inversion, virtue epistemology, fiduciary transparency, epistemic audit, democratic governance, social justice
 
 ### Working Paper Status
 
