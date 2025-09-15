@@ -6,38 +6,40 @@
 
 DOI: 10.13140/RG.2.2.34597.36324
 
-by Peter Kahl, 19 June 2025
+by Peter Kahl, 19 June 2025; 2nd ed. 15 September 2025
 
 ![alt text](https://github.com/Peter-Kahl/Epistemocracy-in-Higher-Education/blob/main/abstract_illustration.jpg?raw=true)
 
 ### Abstract
 
-This paper proposes _epistemocracy_, a transformative governance model for higher education institutions that explicitly prioritises epistemic plurality, fiduciary transparency, and distributed credibility. Critically responding to entrenched epistemic injustices, it introduces strategic conceptual tools—optocratic drift, fiducial hollowing, and epistemic inversion—to clearly identify and challenge institutional practices privileging visual representation and symbolic accountability over genuine epistemic diversity and fiduciary obligations. Drawing upon democratic epistemology (Anderson), critical pedagogy (Freire, Darder), fiduciary ethics (Frankel), and agonistic pluralism (Mouffe), epistemocracy seeks not mere institutional reform but profound epistemic reorientation. Ultimately, this work argues that epistemocracy not only restores universities’ democratic and epistemic integrity but significantly impacts broader societal issues including public trust, social justice, and democratic governance.
+This paper advances the concept of epistemocracy as a normative model of higher education governance, grounded in fiduciary transparency, epistemic plurality, and distributed credibility. Building on fiduciary theory (Frankel, Smith, Miller), virtue epistemology (Fricker, Zagzebski, Medina), and critical pedagogy (Freire, Darder), I diagnose the epistemic crisis of contemporary universities through three new critical terms—optocratic drift, fiducial hollowing, and epistemic inversion. These neologisms identify how institutions privilege optics over substance, hollow fiduciary duties into public relations, and collapse plurality into singular figureheads. Against this backdrop, I propose epistemocracy as a structural reform: a governance framework embedding epistemic audit boards, fiduciary oversight mechanisms, decentralised credit infrastructures, and visual plurality protocols. The model resists epistemic injustice, strengthens fiduciary obligations, and restores universities’ democratic and epistemic integrity. Beyond academia, I argue epistemocracy provides a transferable governance framework for corporations, NGOs, and democratic institutions, modelling fiduciary–epistemic accountability in wider society.
+
+### Keywords
+
+higher education governance; fiduciary ethics; epistemic justice; epistemic democracy; institutional accountability; distributed credibility; transparency; critical pedagogy; agonistic pluralism; public trust; optocratic drift; fiducial hollowing; epistemic inversion
 
 ### Working Paper Status
 
 This paper forms part of a wider research programme on fiduciary-epistemic governance and will be integrated into my forthcoming monograph _Beyond Epistemic Clientelism_. Readers are welcome to cite it, but please note that revisions are likely as the material is incorporated into the book project.
 
-### Keywords
-
-cognitive dissonance, epistemic dissonance, foreign language effect, bilingualism, second language acquisition, epistemic plurality, epistemic clientelism, epistemic justice, conformity, autonomy, authority, cognitive flexibility, belief revision, neuroscience of language, dual-systems theory, democratic pedagogy, higher education, knowledge governance, epistemic resilience, epistemic agency
-
 ---
 
 ### Download Latest Edition
 
-- [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Epistemocracy-in-Higher-Education/master/Kahl_P_Epistemocracy_in_Higher_Education_2025-06-19.pdf)
+- [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Epistemocracy-in-Higher-Education/master/Kahl_P_Epistemocracy_in_Higher_Education_v2_2025-09-15.pdf)
 
 ### Cite this work
 
 ```
-Kahl, P. (2025). Epistemocracy in higher education: A proposal for fiduciary and epistemic accountability in the university. Lex et Ratio Ltd. https://doi.org/rg.2.2.34597.36324
+Kahl, P. (2025). Epistemocracy in higher education: A proposal for fiduciary and epistemic accountability in the university (2nd ed.). Lex et Ratio Ltd. https://doi.org/rg.2.2.34597.36324
 ```
 
 ### Publisher & Licence
 
-First published in Great Britain by Lex et Ratio Ltd 19 June 2025.
+First published in London by Peter Kahl, 19 June 2025.\
+Second edition published in London by Lex et Ratio Ltd, 15 September 2025.
 
-© 2025 Lex et Ratio Ltd. Licensed under Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
+© 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.
+You may share this work for non-commercial purposes with attribution and without modification. Licence: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 You are free to share — copy and redistribute the material in any medium or format — under the following terms: attribution required; non-commercial use only; no modifications permitted. Full licence text at <https://creativecommons.org/licenses/by-nc-nd/4.0/>.
