@@ -28,7 +28,7 @@ This paper forms part of a wider research programme on fiduciary-epistemic gover
 
 ## Cite this work
 
-Kahl, P. (2025). Epistemocracy in higher education: A proposal for fiduciary and epistemic accountability in the university (v2). Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Epistemocracy-in-Higher-Education
+Kahl, P. (2025). _Epistemocracy in higher education: A proposal for fiduciary and epistemic accountability in the university_ (v2). Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Epistemocracy-in-Higher-Education
 
 ## Publisher & Licence
 
