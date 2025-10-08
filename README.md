@@ -6,6 +6,8 @@ _(A new governance model for higher education grounded in fiduciary ethics and e
 
 by Peter Kahl, 19 June 2025; v2: 2025-09-15
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17293583.svg)](https://doi.org/10.5281/zenodo.17293583)
+
 ![alt text](https://github.com/Peter-Kahl/Epistemocracy-in-Higher-Education/blob/main/abstract_illustration.jpg?raw=true)
 
 ## Abstract
