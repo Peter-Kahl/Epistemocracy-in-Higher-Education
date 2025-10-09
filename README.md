@@ -4,9 +4,9 @@
 
 _(A new governance model for higher education grounded in fiduciary ethics and epistemic plurality, challenging managerialism and advancing democratic knowledge institutions)_
 
-by Peter Kahl, 19 June 2025; v2: 2025-09-15
+by Peter Kahl, 2025-06-19; v2: 2025-09-15
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17293583.svg)](https://doi.org/10.5281/zenodo.17293583)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17293583.svg)](https://doi.org/10.5281/zenodo.17293583) [![Generic badge](https://img.shields.io/badge/ORCID-0009.0003.1616.4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
 ![alt text](https://github.com/Peter-Kahl/Epistemocracy-in-Higher-Education/blob/main/abstract_illustration.jpg?raw=true)
 
@@ -32,8 +32,8 @@ Kahl, P. (2025). _Epistemocracy in higher education: A proposal for fiduciary an
 
 ## Publisher & Licence
 
-First published in London by Peter Kahl, 19 June 2025.\
-v2 published in London by Lex et Ratio Ltd, 15 September 2025.
+First published in London by Peter Kahl, 2025-06-19.\
+v2 published in London by Lex et Ratio Ltd, 2025-09-15.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
 You may share this work for non-commercial purposes with attribution and without modification. Licence: https://creativecommons.org/licenses/by-nc-nd/4.0/
